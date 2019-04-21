@@ -1,0 +1,8 @@
+3x3 configuration - ED CE BC DB FD GF EG CE AC BA DB FD EF CE DC
+2x3 configuration - BC DB ED CE AC BA DB FD EF CE DC
+2x2 configuration - DC BD AB CA EC DE BD CB
+1x2 configuration - CB AC BA DB CD
+2x1 configuration - BC DB CD AC BA
+1x1 configuration - AB CA BC
+
+a.) No. Each level has its own number of moves. This is because the number of frogs is different therefore the higher the number of frogs the more the steps that are required to complete the level.
